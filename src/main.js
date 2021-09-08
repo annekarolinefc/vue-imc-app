@@ -5,6 +5,11 @@ import PrimeVue from "primevue/config";
 //Importando os componentes
 import Button from "primevue/button";
 import InputText from "primevue/inputtext";
+//Importando os estilos
+import 'primevue/resources/themes/saga-blue/theme.css'
+import 'primevue/resources/primevue.min.css'
+
+
 
 const app = createApp(App);
 //configurando o uso do primevue
