@@ -1,6 +1,11 @@
 <template>
   <h1>Cálculo de IMC</h1>
   <h2>Digite seu peso e altura para calcular o IMC</h2>
+  <span class="p-float-label">
+	<InputText id="input-weight" type="text" v-model="value" />
+	<label for="input-weight">Peso</label>
+  </span>
+
   
 </template>
 
