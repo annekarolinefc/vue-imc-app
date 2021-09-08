@@ -5,7 +5,8 @@ import PrimeVue from "primevue/config";
 //Importando os componentes
 import Button from "primevue/button";
 import InputText from "primevue/inputtext";
-//Importando os estilos
+
+//Importando os estilos CSS
 import 'primevue/resources/themes/saga-blue/theme.css'
 import 'primevue/resources/primevue.min.css'
 
